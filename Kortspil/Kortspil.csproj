@@ -67,6 +67,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Compile Include="C:\Users\Bukh\OneDrive\Programmering\C#\Aflevering 1\Kortspil-Programmering\Kortspil\MainWindow.xaml" Link="MainWindow.xaml" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Resource Include="Billeder\10-Klør.jpg">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>
